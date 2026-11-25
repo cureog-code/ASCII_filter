@@ -45,7 +45,8 @@ Configure settings (Max width, contrast, filters) via the sidebar settings.
 
 Click "RENDER ASCII" to process the image using the C-Core engine and view the result in the ASCII tab.
 
+## AI esage
+I used ChatGPT to code the web UI UX. All other core calculation steps was implemented by me in C.
+
 ## Dependencies
 stb_image.h: Sean Barrett's header-only library for image decoding.
-
-Created by cureog
